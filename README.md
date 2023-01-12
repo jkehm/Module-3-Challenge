@@ -41,8 +41,10 @@ This ouput data can then be utilized to determine the winner of the election, an
   * Winner: Diana DeGette
   * Winning Vote Count: 272,892
   * Winning Percentage: 73.8%
- 
- 
+
+#### The Command Line Output can be seen here
+ ![Guess this didn't work](https://github.com/jkehm/Module-3-Challenge/blob/main/analysis/VS%20Code%20Output.png)
+  
 ## Election-Audit Summary
 Since the election commity has faced issues in the past I think it is time to consider a new voting system. Here you can see a script that will allow the winner of the vote to be determined very quickly. As long as the location of the variables are the same on every .csv file that we used in this assignment, you could run this script, with other data outputs that are useful. Additionally more could be added.
 
